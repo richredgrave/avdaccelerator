@@ -9,25 +9,25 @@
             "value": false
         },
         "avdSessionHostLocation": {
-            "value": "eastus2"
+            "value": "uksouth"
         },
         "avdManagementPlaneLocation": {
-            "value": "eastus2"
+            "value": "uksouth"
         },
         "avdDeployMonitoring": {
-            "value": false
+            "value": true
         },   
         "avdWorkloadSubsId": {
-            "value": "<<subscriptionId>>"
+            "value": "3c5b486d-9fcd-421c-80a6-e3586db457cf"
         },
         "avdEnterpriseAppObjectId": {
             "value": false
         },
         "avdVmLocalUserName": {
-            "value": "<<localUserName>>"
+            "value": "rradmin"
         },
         "avdVmLocalUserPassword": {
-            "value": "<<localUserPassword>>"
+            "value": "Sa#V/Z4C'B"
         },
         "avdIdentityServiceProvider": {
             "value": "<<IdentityServiceProviderType>>"
@@ -63,7 +63,7 @@
             "value": "BreadthFirst"
         },
         "avhHostPoolMaxSessions": {
-            "value": 15
+            "value": 3
         },
         "avdStartVmOnConnect": {
             "value": true
