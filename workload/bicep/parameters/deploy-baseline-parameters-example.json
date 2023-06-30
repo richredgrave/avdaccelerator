@@ -9,10 +9,10 @@
             "value": false
         },
         "avdSessionHostLocation": {
-            "value": "uksouth"
+            "value": "westeurope"
         },
         "avdManagementPlaneLocation": {
-            "value": "uksouth"
+            "value": "westeurope"
         },
         "avdDeployMonitoring": {
             "value": true

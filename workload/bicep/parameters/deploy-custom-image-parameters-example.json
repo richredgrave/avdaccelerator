@@ -18,7 +18,7 @@
             "value": "Recurring"
         },
         "costCenterTag": {
-            "value": ""
+            "value": "123"
         },
         "criticalityCustomTag": {
             "value": ""
@@ -36,7 +36,7 @@
             "value": ""
         },
         "deploymentLocation": {
-            "value": "eastus"
+            "value": "westeurope"
         },
         "enableMonitoringAlerts": {
             "value": false
@@ -51,16 +51,16 @@
             "value": "Dev"
         },
         "existingLogAnalyticsWorkspaceResourceId": {
-            "value": ""
+            "value": "/subscriptions/62bea5b0-2517-4593-986e-eea014fc22e7/resourceGroups/alz-logging-01-rg/providers/Microsoft.OperationalInsights/workspaces/alz-log-analytics"
         },
         "existingSubnetName": {
-            "value": ""
+            "value": "avd-sbuilder-snet"
         },
         "existingVirtualNetworkResourceId": {
-            "value": ""
+            "value": "/subscriptions/3c5b486d-9fcd-421c-80a6-e3586db457cf/resourceGroups/contoso-westeurope-spoke-networking/providers/Microsoft.Network/virtualNetworks/vnet-spoke-01"
         },
         "imageBuildNameTag": {
-            "value": ""
+            "value": "imgBuilder"
         },
         "imageDefinitionCustomName": {
             "value": ""
@@ -84,7 +84,7 @@
             "value": ""
         },
         "imageVersionPrimaryLocation": {
-            "value": "eastus"
+            "value": "westeurope"
         },
         "imageVersionStorageAccountType": {
             "value": "Standard_LRS"
@@ -102,7 +102,7 @@
             "value": ""
         },
         "ownerTag": {
-            "value": ""
+            "value": "rr"
         },
         "rdpShortPathManagedNetworks": {
             "value": false
@@ -114,10 +114,10 @@
             "value": false
         },
         "sharedServicesSubId": {
-            "value": "<<SubscriptionID>>"
+            "value": "3c5b486d-9fcd-421c-80a6-e3586db457cf"
         },
         "useExistingVirtualNetwork": {
-            "value": false
+            "value": true
         },
         "userAssignedManagedIdentityCustomName": {
             "value": ""
