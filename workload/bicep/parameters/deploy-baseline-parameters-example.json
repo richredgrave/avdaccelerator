@@ -30,7 +30,7 @@
             "value": "Sa#V/Z4C'B"
         },
         "avdIdentityServiceProvider": {
-            "value": "<<IdentityServiceProviderType>>"
+            "value": "ADDS"
         },     
         "createIntuneEnrollment": {
             "value": false
@@ -42,13 +42,13 @@
             "value": "Group"
         },       
         "avdIdentityDomainName": {
-            "value": "<<IdentityDomainName>>"
+            "value": "contoso.com"
         },
         "avdDomainJoinUserName": {
-            "value": "none"
+            "value": "rradmin"
         },
         "avdDomainJoinUserPassword": {
-            "value": "none"
+            "value": "Bluegreendeploy1!"
         },
         "avdOuPath": {
             "value": ""
@@ -78,16 +78,16 @@
             "value": true
         },
         "createAvdVnet": {
-            "value": true
+            "value": false
         },
         "existingVnetAvdSubnetResourceId": {
-            "value": ""
+            "value": "/subscriptions/3c5b486d-9fcd-421c-80a6-e3586db457cf/resourceGroups/contoso-westeurope-spoke-networking/providers/Microsoft.Network/virtualNetworks/vnet-spoke-01"
         },
         "existingVnetPrivateEndpointSubnetResourceId": {
             "value": ""
         },
         "existingHubVnetResourceId": {
-            "value": ""
+            "value": "/subscriptions/799ad730-4c34-4482-8e74-5f8665ab19c2/resourceGroups/rg-contoso-networking-01/providers/Microsoft.Network/virtualNetworks/alz-hub-uksouth"
         },
         "avdVnetworkAddressPrefixes": {
             "value": "10.10.0.0/23"
